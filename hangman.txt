@@ -2,4 +2,5 @@ Guessed Letters: A, K, O
 
 O
 I
-- - - - - - - - - 
+
+- - - - - - - O - 
