@@ -1,4 +1,4 @@
-Guessed Letters: A, K
+Guessed Letters: A, K, O
 
 O
 I
