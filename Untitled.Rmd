@@ -1,0 +1,16 @@
+---
+title: "practice"
+author: "O_O"
+date: "Oct 30th, 2018"
+output: html_document
+---
+### First example
+
+I'm going to add two numbers
+
+```{r}
+x <- 2+2
+x
+
+plot(cars$speed, cars$dist)
+```
